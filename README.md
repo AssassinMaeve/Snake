@@ -39,7 +39,7 @@ A classic Snake game built using Python and Pygame.
    ```
 
 ## 📷 Screenshot
-*![alt text](image.png)*
+*![alt text](//Image/image.png)*
 
 ## 🏆 Future Improvements
 - Add sound effects. 
